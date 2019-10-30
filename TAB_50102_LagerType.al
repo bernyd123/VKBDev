@@ -7,13 +7,13 @@ table 50102 "Lager Type"
         field(1; Code; Code[50])
         {
             DataClassification = ToBeClassified;
-            Caption = 'Code';
+            Caption = 'Code 123';
 
         }
         field(2; Description; Text[50])
         {
             DataClassification = ToBeClassified;
-            Caption = 'Description';
+            Caption = 'Description 123';
 
         }
     }

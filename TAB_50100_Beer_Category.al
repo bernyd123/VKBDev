@@ -15,10 +15,10 @@ table 50100 "BCA Beer Category"
             DataClassification = ToBeClassified;
             Caption = 'Name';
         }
-        field(3; LagerType; Code[50])
+        field(3; LagerType; Code[100])
         {
             DataClassification = ToBeClassified;
-            Caption = 'Lager Type';
+            Caption = 'Lager Type123';
             TableRelation = "Lager Type";
         }
     }
