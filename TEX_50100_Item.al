@@ -12,8 +12,9 @@ tableextension 50100 "BCA Item" extends Item
         {
             Caption = 'Beer Category Name';
             FieldClass = FlowField;
-            CalcFormula = lookup ("BCA Beer Category".Name where(Code = field("BCA ")));
+            CalcFormula = lookup ("BCA Beer Category".Name where(Code = field("BCA Beer Category Code")));
+            //Comment
         }
     }
-/* Hierdie Code het baie errors */    
+    /* Hierdie Code het baie errors */
 }
