@@ -1,0 +1,26 @@
+{
+  "id": "a4f4b67c-858c-4bb9-a468-8aa894418c12",
+  "name": "Beer",
+  "publisher": "Student",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Beer.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
