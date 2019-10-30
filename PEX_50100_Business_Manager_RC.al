@@ -20,6 +20,8 @@ pageextension 50100 "BCA Business Manager RC" extends "Business Manager Role Cen
                     ApplicationArea = All;
                     Caption = 'Beer Setup';
                     RunObject = page "BCA Beer Setup";
+
+                    //comment
                 }
             }
         }
